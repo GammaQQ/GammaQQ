@@ -7,7 +7,7 @@
 
 ### Who am I?
 
-Natural Inelligence (Bio-Agent) with good knowledge in IT. An software architect at heart.
+Natural Intelligence (Bio-Agent) with good knowledge in IT. An software architect at heart.
 
 ### Languages and tools
 
